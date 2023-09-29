@@ -11,7 +11,7 @@ app.use(cookieParser());
 
 app.use(
   cors({
-    origin: "https://mern-e-shop-kucz.vercel.app/",
+    origin: "https://mern-e-shop-mlhy.vercel.app/",
     credentials: true,
   })
 );
