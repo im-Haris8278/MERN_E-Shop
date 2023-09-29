@@ -11,7 +11,7 @@ app.use(cookieParser());
 
 app.use(
   cors({
-    origin: "http://localhost:3000",
+    origin: "https://mern-e-shop-kucz.vercel.app/",
     credentials: true,
   })
 );
